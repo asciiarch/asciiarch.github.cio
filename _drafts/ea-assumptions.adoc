@@ -1,0 +1,37 @@
+= Some Unstated Assumptions of Enterprise Architecture
+:page-layout: post
+
+It's not hard to find a lot of disappointment with what Enterprise Architecture can achieve in the literature. 
+Meanwhile it is quite hard to find solid examples of how EA has been used and delivered business benefits.
+
+One approach to understand where EA might be going astray is to try and identify some of the underlying assumptions that are made in EA. 
+In this post I'll describe some of the damaging assumptions that underpin EA and why I think they hamper the practice of EA.
+I'll generally refer to TOGAF and the Zachman framework for examples of these assumptions, although there are of course many other perspectives on EA.
+
+== The "Absolute Enterprise" Assumption
+
+In a 2009 blog post <<zachman2009>>, John Zachman says:
+
+____
+Enterprise Architecture... is not arbitrary... it is absolute... As long as we consider it negotiable, we are going nowhere.
+____
+
+He justifies this statement by analogy with the a list of other things that he says have absolute architectures.
+However every architecture in his list is for a physically artifact.
+
+TOGAF <<theopengroup2018>> is less explicit about this assumption, but there are hints throughout the standard that the assumption is made. Two of the key steps in developing the business architecture is to create a baseline architecture description and compare it via a gap analysis with a target business architecture (pg 84). This is apparently possible if the architect has a fairly short list of inputs to work with (pg 78).
+
+But can we take for granted that an Enterprise exists in this kind of non-negotiable, absolute sense?
+When you think about it there are very few aspects of an organization that you can actually reach out and touch. 
+The people, the buildings, some desks and computer equipment make up the physical reality of an organization. 
+What else, then, makes up and Enterprise?
+And whatever it is made of do those things have an absolute architecture like "buildings, airplanes, locomotives, battleships, computers, automobiles, [or] oil refineries" as Zachman <<zachman2009>> claims.
+
+So, I'd like to suggest that the "Absolute Enterprise" assumption is flawed precisely because the important aspects of an Enterprise are negotiated. An Enterprise is first and foremost a social system and the assumption I prefer is that the enterprise is socially constructed by the people involved, inside and outside the enterprise.
+
+What are the implications of this new assumption? First and foremost, it's the reason that an Enterprise Architecture developed in an architecture "ivory tower" have zero impact on the business. The architects must be part of the conversation that constructs the socially negotiated enterprise.
+
+== The "" assumption
+
+
+

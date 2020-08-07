@@ -29,6 +29,7 @@ github_username:  asciiarch
 # Build settings
 theme: minima
 plugins:
+  - jekyll-asciidoc
   - jekyll-feed
 
 # Exclude from processing.
