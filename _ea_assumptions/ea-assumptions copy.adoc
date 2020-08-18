@@ -1,0 +1,23 @@
+---
+---
+
+== The "Objective Information System" assumption
+
+In a similar vein to the "Absolute Enterprise".
+
+At the physical level, an application is made up of bits stored electrically or magnetically.
+
+The meaning of some of these bits is determined by what operations they represent in the CPU. The CPU is another physical object that interprets bit into operations. The operations are on other bits that represent data.
+
+Everything else in computing has been invented, named and labelled by a person in an act of invention. Even things that seem so 'physical' like the file systems and folders are just names for things that group physical objects but don't actually exist.
+
+As you get to the highlest level of invention and labelling you have application boundaries. These are usually not completely arbitrary but in any Enterprise they will be largely negotiated on the basis of industry or professional norms, the historical path of the Enteprise even the culture of the organisation. It's likely that different parts of the organization will have different views of the applications that they use.
+
+What have Winograd and Flores got to say about this?
+
+However, it seems to me that Enterprise Architecture makes the assumption that there is a single objective view.
+
+
+
+
+

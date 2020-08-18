@@ -26,6 +26,10 @@ url: "https://asciiarch.org" # the base hostname & protocol for your site, e.g. 
 twitter_username: asciiarch
 github_username:  asciiarch
 
+collections:
+  ea_assumptions:
+    output: true
+
 # Build settings
 theme: minima
 plugins:
